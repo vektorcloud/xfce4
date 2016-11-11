@@ -7,4 +7,4 @@ This image requires you to run an X server with [Xephyr](https://www.freedesktop
 #### Running
 
     Xephyr :1 -ac -resizeable -screen 1024x768 &
-    docker run -e DISPLAY=:1.0 -v /tmp/.X11-unix:/tmp/.X11-unix --rm -it --net host xfce4
+    docker run -e DISPLAY=:1.0 -v /tmp/.X11-unix:/tmp/.X11-unix --rm -it --net host quay.io/vektorcloud/xfce4
