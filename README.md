@@ -1,4 +1,5 @@
 # xfce4
+[![Circle CI](https://circleci.com/gh/vektorcloud/xfce4.svg?style=svg)](https://circleci.com/gh/vektorcloud/xfce4)
 Tiny Alpine image for running xfce4
 
 This image requires you to run an X server with [Xephyr](https://www.freedesktop.org/wiki/Software/Xephyr/) on Linux.
