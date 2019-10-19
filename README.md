@@ -1,6 +1,6 @@
 # xfce4
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/xfce4)
 
 Tiny Alpine image for running xfce4
 
